@@ -1,1 +1,1 @@
-# code for Temperature-Monitoring-System
+# Code for the Temperature-Monitoring-System
